@@ -1,2 +1,1 @@
-# Repositorio1
-Es un proyecto para el m2 de SoyHenry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
